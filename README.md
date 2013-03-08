@@ -13,4 +13,11 @@ this on my own time will help keep my programming skill sharp and allow me to ex
 trends out there. Will this be useful for somebody? That I do not know, but for me, it will help keep my skills 
 sharp and more knowledgeable of the current and upcoming technology. Why did I chose this? At this time, this what
 I know best. Maybe as I write this, there will be other GitHub projects that I will find interesting and may even be
-able to help contribute to them.
+able to help contribute to them. 
+
+I do not expect this to move fast initially because I still have to set up my workstation at home to prep up 
+this project. For me, a laptop is great for portability and convenient, but to do any serious work, I prefer a
+workstation.
+
+
+March 8, 2013 - Start
