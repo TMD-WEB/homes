@@ -21,3 +21,7 @@ workstation.
 
 
 March 8, 2013 - Start
+
+STEP 1 (April 1, 2015)
+=====
+I found out that CodeIgniter 3.0 was released a few days ago.  This is a nice opportunity to start a project with it, I know it has been 2 years since I started this project :-) 
