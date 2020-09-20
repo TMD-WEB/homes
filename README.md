@@ -2,7 +2,6 @@ HOMES
 =====
 Housing Occupancy Management Enterprise System (HOMES)
 
-My name is Doug and I am currently working at the University of Minnesota Twin Cities Housing & Residential Life.
 A long time ago, we worked on a RFP to purchase an enterprise system that would help us manage our buildings
 and their residents. Like any other higher education institutions, we came up with the acronym above :-) Yes,
 we found a system and is still using it today.
@@ -25,3 +24,7 @@ March 8, 2013 - Start
 STEP 1 (April 1, 2015)
 =====
 I found out that CodeIgniter 3.0 was released a few days ago.  This is a nice opportunity to start a project with it, I know it has been 2 years since I started this project :-) 
+
+STEP 2 (September 19, 2020)
+=====
+Kids, family, and work threw me off course.  CodeIgniter 4 is out and I am planning to build some web applications with it to learn.
